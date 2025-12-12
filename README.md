@@ -1,6 +1,6 @@
 # README
 
-An iteration of the classic 1978 arcade game, Space Invaders! Built with Java Swing, featuring animated aliens, a mystery UFO, and destructible bunkers. Extended from Asteroids base code.
+An iteration of the classic 1978 arcade game, Space Invaders! Built with Java Swing, featuring animated aliens, a mystery UFO, and destructible bunkers. Extended from Asteroids base code provided to me in a Java class: https://github.com/agerber/moregames.
 
 ![Gameplay Screenshot](spaceInvadersScreenshot.png)
 
