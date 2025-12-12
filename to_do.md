@@ -52,4 +52,6 @@ X Bunkers disintegrate when hit by laser (alien or player)
 X Points awarded for each alien shot down
 X Bonus points awarded by hitting mystery UFO
 
+- Multilevel
 - When player wins a level, next level aliens start lower and move faster
+- Music increases as aliens descend
